@@ -1,1 +1,8 @@
-# node-kontur-frontend-task
+## Run
+```
+node index.js
+```
+## Testing
+
+```
+tests/npm test
